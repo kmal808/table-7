@@ -8,10 +8,11 @@ A repo for our study group to collaborate, learn, and sharpen our GitHub skills.
 
 ## Getting Started
 
-1. Create a branch
-2. Edit your changes
-3. Create a pull request to have your change merged 
-4. Walla - You've just contributed to a project
+1. Clone or fork repo
+2. Create a branch
+3. Edit your changes
+4. Create a pull request to have your change merged 
+5. Walla - You've just contributed to a project
 
 ## Lessons Learned:
 
