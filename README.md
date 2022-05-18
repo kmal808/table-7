@@ -1,6 +1,8 @@
-# table-7
-A repo for our study group to collaborate, learn, and sharpen our GitHub skills. 
-**Link to project:** Coming soon...
+# Table-7
+A webiste for our study group to collaborate, learn, and sharpen our skills. </br> 
+
+**Link to project:** </br>
+https://kmal808.github.io/table-7/index.html
 
 ## How It's Made:
 
@@ -29,4 +31,6 @@ GitHub is an incredible tool that we use to collaborate, deploy, and back up our
 **Michael Olawunmi:** https://github.com/CodeMichaelCode
 
 **Arturo Guevara:** https://github.com/Arikabz
+
+**Brandon White** https://github.com/leroialfonse
 
