@@ -1,5 +1,5 @@
 # Table-7
-A webiste for our study group to collaborate, learn, and sharpen our skills. </br> 
+A website for our study group to collaborate, learn, and sharpen our skills. </br> 
 
 **Link to project:** </br>
 https://kmal808.github.io/table-7/index.html
@@ -34,3 +34,4 @@ GitHub is an incredible tool that we use to collaborate, deploy, and back up our
 
 **Brandon White** https://github.com/leroialfonse
 
+**Cristofer Ramirez** Coming soon!
