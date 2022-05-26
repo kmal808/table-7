@@ -34,4 +34,10 @@ GitHub is an incredible tool that we use to collaborate, deploy, and back up our
 
 **Brandon White** https://github.com/leroialfonse
 
-**Cristofer Ramirez** Coming soon!
+**Cristofer Ramirez** https://github.com/crisx0530
+
+**Rob Perry** Coming soon..
+
+**Gregory Jordan** Coming soon..
+
+
